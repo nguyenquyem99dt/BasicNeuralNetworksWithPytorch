@@ -1,2 +1,2 @@
-# IntroNeuralNetworksWithPytorch
-Lab02 of Applied Image Processing Course - 2010 - HCMUS
+# Basic Neural Networks with Pytorch
+Lab02 of Applied Image Processing Course - 2020 - HCMUS
